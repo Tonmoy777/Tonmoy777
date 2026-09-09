@@ -1,18 +1,6 @@
 # 👋 Hi, I'm Tonmoy Sarker
 
-### 💻 Full Stack Web Developer from Bangladesh 🇧🇩
-
-<p align="center">
-  <a href="https://github.com/tonmoy777">
-    <img src="https://komarev.com/ghpvc/?username=tonmoy777&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/tonmoy777?tab=followers">
-    <img src="https://img.shields.io/github/followers/tonmoy777?style=for-the-badge&label=Followers" alt="Followers" />
-  </a>
-  <a href="https://github.com/tonmoy777">
-    <img src="https://img.shields.io/github/stars/tonmoy777?style=for-the-badge&label=Stars" alt="Stars" />
-  </a>
-</p>
+### 💻 Full Stack Web Developer from Bangladesh
 
 ---
 
@@ -26,22 +14,6 @@
 * 🚀 Enjoy turning ideas into functional web applications
 * 💬 Ask me about **Full Stack Development**
 * 📫 Reach me at **[tomsarker210@gmail.com](mailto:tomsarker210@gmail.com)**
-
----
-
-# 🚀 Featured Project
-
-## 🛍️ Decorify
-
-> A modern e-commerce platform for decorations, collectibles, showpieces, fan merchandise and thoughtful gifts.
-
-<a href="https://github.com/tonmoy777/Decorify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonmoy777&repo=Decorify&theme=tokyonight&hide_border=true" alt="Decorify Repository" />
-</a>
-
-### Tech Used
-
-`React` `Redux` `Node.js` `Express.js` `MongoDB` `Cloudinary`
 
 ---
 
@@ -82,47 +54,13 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonmoy777&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoy777&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tonmoy777&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonmoy777&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
-</p>
-
----
-
-# 📌 GitHub Overview
+# 🌱 Currently Learning
 
 <p align="center">
 
-<a href="https://github.com/tonmoy777?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-</a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 
-<a href="https://github.com/tonmoy777?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-My%20Stars-181717?style=for-the-badge&logo=github" alt="Stars"/>
-</a>
-
-<a href="https://github.com/tonmoy777?tab=followers">
-  <img src="https://img.shields.io/badge/Followers-Connect-181717?style=for-the-badge&logo=github" alt="Followers"/>
-</a>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 
 </p>
 
